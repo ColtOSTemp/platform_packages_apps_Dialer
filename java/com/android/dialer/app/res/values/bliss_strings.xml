@@ -27,4 +27,8 @@
   <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
   <string name="sensor_settings_titile">Sensors</string>
 
+  <!-- proximity autoanswer feature -->
+    <string name="prox_auto_answer_incall_only_title">Auto answer</string>
+    <string name="prox_auto_answer_incall_only_summary">Use proximity sensor for autoanswer</string>
+
 </resources>
